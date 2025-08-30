@@ -1,2 +1,2 @@
-# vornheim
-База знаний Ворнхейма
+# Dark Sun for SD
+DarkSun для Shadowdark
